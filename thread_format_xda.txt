@@ -174,9 +174,10 @@ Reboot!
 [/CENTER]
 
 [B][COLOR="red"][SIZE="6"]Links:[/SIZE][/COLOR][/B]
-[URL="http://firehound.me"]Website[/URL]
+[URL="http://firehound.org"]Website[/URL]
+[URL="http://paypal.me/neporood"]Donations[/URL]
 [URL="https://plus.google.com/communities/114615598909452601377"]Google+ Community[/URL]
-[URL="http://review.firehound.me"]Gerrit Code-Review[/URL]
+[URL="http://review.firehound.org"]Gerrit Code-Review[/URL]
 [URL="https://crowdin.com/project/firehound"]Crowdin[/URL]
 [URL="https://t.me/FireHound"]Telegram Channel[/URL]
 
