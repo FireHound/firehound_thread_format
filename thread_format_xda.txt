@@ -170,7 +170,7 @@ Essentials is our app written from scratch which serves as a core service
 [/LIST][/HIDE]
 
 [CENTER][B][I][U][SIZE=6][COLOR=green][FONT=Impact]Downloads[/FONT][/COLOR][/SIZE][/U][/I][/B]
-[SIZE=4][B][URL='']FireHound[/URL][/B][/SIZE]
+[SIZE=4][B][URL='https://firehound.org/download']FireHound[/URL][/B][/SIZE]
 
 [B][SIZE=3][COLOR=Red]How to flash:[/COLOR][/SIZE][/B]
 Download the ROM and [URL='http://opengapps.org/'][B]Gapps[/B][/URL]
